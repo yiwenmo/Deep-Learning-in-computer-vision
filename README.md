@@ -3,3 +3,4 @@ I have studied the ML course when i was graduate student in first semester and l
 
 In my files, each assignment has a core theme, more detailed content shown below:
 - HW1: The basic concept of Support Vector Machine
+- HW2: In HW2-1.pdf is the handwritten of Forward and Backpropagation process within the corresponding neural network. HW2-1.ipynb is the correct answer of the calculation.
